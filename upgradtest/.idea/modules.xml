@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/arrayPractise/arrayPractise.iml" filepath="$PROJECT_DIR$/arrayPractise/arrayPractise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hashMap/hashMap.iml" filepath="$PROJECT_DIR$/hashMap/hashMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/question/question.iml" filepath="$PROJECT_DIR$/question/question.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursion/recursion.iml" filepath="$PROJECT_DIR$/recursion/recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/theory/theory.iml" filepath="$PROJECT_DIR$/theory/theory.iml" />
+    </modules>
+  </component>
+</project>
